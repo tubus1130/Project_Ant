@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KauAntApp</string>
+    <string name="analysis_graph_title">과거 뉴스 기준 &#160;&#160;±2일 주가 동향</string>
+    <string name="analysis_similarity_text">"%d\%% 일치</string>
+    <string name="analysis_similarity_loading"> </string>
+    <string name="analysis_empty">유사한 뉴스가 존재하지 않습니다.</string>
+</resources>
